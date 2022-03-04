@@ -10,7 +10,7 @@
 // 添加要在此处预编译的标头
 #include "framework.h"
 
-// OpenGL 使用NuGet依次安装glfw , glm , freeglut
+// OpenGL 使用NuGet依次安装 glm , glut
 #include <gl\GL.h>
 #include <gl\GLU.h>
 #include <gl\glut.h>
